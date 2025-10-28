@@ -51,7 +51,7 @@ setInterval(launchEmojis, 800);
 // 🎠 Image + Message Showcase
 const messages = [
   "You make every moment brighter 🌟",
-  "Your smile is my favorite sunshine ☀️",
+  "Sending you smiles for every moment of your special day ☀️",
   "To the kindest soul I know 💖",
   "Wishing you endless joy and laughter 🎈",
   "You deserve the world and more 🌍",
@@ -61,13 +61,13 @@ const messages = [
   "You’re the reason behind so many smiles 😊",
   "Here’s to more adventures together 🚀",
   "You light up lives just by being you 💫",
-  "Happy Birthday to my favorite person 🎂",
+  "Happy Birthday to YOU..... 🎂",
   "Your laugh is my favorite sound 🎶",
   "You’re loved more than words can say 💕",
   "Let’s make this year unforgettable 🥳",
   "You’re a masterpiece in motion 🎨",
   "Forever grateful for you 🙏",
-  "You’re the sparkle in my story ✍️"
+  "You’re the sparkle in every story ✍️"
 ];
 
 let index = 0;
